@@ -1,2 +1,2 @@
 # microservices-blog
-A blog application using microservices architecture
+A blog application using microservices architecture.
